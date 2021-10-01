@@ -1,17 +1,1 @@
-c.txt v1
-c.txt v2
-c.txt v3
-
-c.txt v4
-v5
-v6
-v7
-v8
-
-v9
-v10
-
-c1
-c2
-c3
-
+V1
