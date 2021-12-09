@@ -2,8 +2,5 @@ b.txt v1
 b.txt v2
 b.txt v3
 b.txt v4
-<<<<<<< HEAD
 b.txt v5
-=======
 b.txt v5
->>>>>>> f81763f212f72be0fd70ef8f6d91440df0030b53
