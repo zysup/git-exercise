@@ -1,3 +1,25 @@
+<<<<<<< HEAD
 v1v1v1
 v2
 v3
+=======
+c.txt v1
+c.txt v2
+c.txt v3
+
+c.txt v4
+v5
+v6
+v7
+v8
+
+v9
+v10
+
+c1
+c2
+c3
+
+b1
+b2
+>>>>>>> af5dc5cc537f42f6bea143499dd3b8355a3aef6e
