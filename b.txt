@@ -1,4 +1,8 @@
 b.txt v1
+<<<<<<< HEAD
 
+=======
+asdfasfsadfasfasdfsadfa是的方式方法都是
+>>>>>>> bd173d1ecd220b21006d1622690423f1728cf6aa
 
 
